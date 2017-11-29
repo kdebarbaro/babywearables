@@ -150,6 +150,6 @@
               "esm_expiration_threshold": 60,
               "esm_trigger": "bd-q20",
               "esm_na": 0}
-        },
+        }
     ]
 }]
